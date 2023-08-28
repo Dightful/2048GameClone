@@ -1,0 +1,13 @@
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.exe
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.deps.json
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.runtimeconfig.json
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.runtimeconfig.dev.json
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.dll
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\bin\Debug\netcoreapp3.1\Game - 2048 Game.pdb
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.csprojAssemblyReference.cache
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.AssemblyInfoInputs.cache
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.AssemblyInfo.cs
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.csproj.CoreCompileInputs.cache
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.dll
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.pdb
+D:\0Good\coding\python2\00mine stuff\edabit challenges\Very Hard\Game - 2048 Game\obj\Debug\netcoreapp3.1\Game - 2048 Game.genruntimeconfig.cache
